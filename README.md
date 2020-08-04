@@ -1,6 +1,6 @@
 # Jags Docker-Driven Blog
 
-An example Jekyll blog for use with the Jekyll service in [The Docker Book](http://www.dockerbook.com).
+An example Jekyll blog for use with the Jekyll service.
 
 ## Source
 
